@@ -3,4 +3,11 @@
 Hi 👋
 
 I'm learning Python Backend Development and documenting my journey.
-## Day 1 Completed ✅
+
+## Skills
+
+- Python
+- SQL
+- Git
+- GitHub
+- Django (Coming Soon)
