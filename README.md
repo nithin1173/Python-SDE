@@ -12,3 +12,7 @@ I'm learning Python Backend Development and documenting my journey.
 - GitHub
 - Django (Coming Soon)
 css
+ Git
+- GitHub
+- Django (Coming Soon)
+- Python
