@@ -38,3 +38,20 @@ Object-Oriented Programming (OOP), Exception Handling,
 File Handling, Modules & Packages, CRUD Operations,
 Authentication & Authorization, API Integration,
 Data Structures & Algorithms, Problem Solving
+
+Edit README.md
+        │
+        ▼
+git status
+        │
+        ▼
+git add .
+        │
+        ▼
+git commit -m "Updated README with backend skills"
+        │
+        ▼
+git push
+        │
+        ▼
+GitHub Updated ✅
