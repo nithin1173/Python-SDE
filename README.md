@@ -1,57 +1,19 @@
-# Python Backend Journey
-
-Hi 👋
-
-I'm learning Python Backend Development and documenting my journey.
-
-## Skills
-
-- Python
-- SQL
-- Git
-- GitHub
-- Django (Coming Soon)
-css
- Git
-- GitHub
-- Django (Coming Soon)
-- Python
-TECHNICAL SKILLS
-
-Programming Languages:
-Python, SQL, HTML5, CSS3 (Basic), JavaScript (Basic)
-
-Backend:
-Django, Django REST Framework (DRF), REST APIs, JSON
-
-Databases:
-MySQL, PostgreSQL, SQLite
-
-Version Control:
-Git, GitHub
-
-Tools:
-VS Code, Postman
-
-Core Concepts:
-Object-Oriented Programming (OOP), Exception Handling,
-File Handling, Modules & Packages, CRUD Operations,
-Authentication & Authorization, API Integration,
-Data Structures & Algorithms, Problem Solving
-
-Edit README.md
-        │
-        ▼
-git status
-        │
-        ▼
-git add .
-        │
-        ▼
-git commit -m "Updated README with backend skills"
-        │
-        ▼
-git push
-        │
-        ▼
-GitHub Updated ✅
+👋 Hi, I'm Nithin K — a Python Backend Developer currently working at ProvenTech Consulting Pvt. Ltd., Hyderabad.
+ 
+🎓 B.Tech in Electronics & Communication Engineering — Lovely Professional University (LPU), 2025
+ 
+I specialize in building scalable backend applications using Python, Django, Django REST Framework (DRF), REST APIs, SQL, PostgreSQL, MySQL, Git, and Docker.
+ 
+In my current role, I design and develop backend modules, build secure RESTful APIs, automate workflows, integrate databases, and contribute to scalable enterprise-grade applications. I enjoy solving real backend problems — writing code that's clean, secure, and built to last.
+ 
+💻 Technical Skills
+ 🔹 Python | Django | Django REST Framework (DRF)
+ 🔹 REST APIs | SQL | MySQL | PostgreSQL
+ 🔹 Git | GitHub | Docker | Postman
+ 🔹 Authentication | CRUD Operations | OOP
+ 
+📍 Based in Hyderabad, India — open to remote, hybrid, and on-site opportunities.
+ 
+I'm passionate about backend engineering and constantly sharpening my skills by building real-world applications and exploring modern backend technologies.
+ 
+Always happy to connect with fellow developers, recruiters, and professionals in the software industry — feel free to reach out! 🚀
